@@ -1,5 +1,5 @@
 {
-  "name": "monoflow-script-beacon-info",
+  "name": "beacon-info",
   "version": "0.1.0",
   "description": "Coletor de informação dos beacons da Minew",
   "settingsSchema": {},
